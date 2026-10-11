@@ -44,3 +44,16 @@ To begin my career as a Business Analyst and help organizations make better, evi
 ---
 
 *Learning continuously. Analysing problems. Building solutions.*
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheWeaponizzer&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWeaponizzer&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
