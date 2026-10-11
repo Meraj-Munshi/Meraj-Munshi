@@ -19,8 +19,6 @@ I am a Computer Science student aspiring to become a Business Analyst, with an i
 - **Tools:** Git, GitHub
 - **Currently Learning:** Business Analysis methodologies and data visualization
 
-## 🚀 Featured Project
-
 ### BizLens
 ## 🚀 Featured Project
 
