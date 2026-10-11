@@ -1,6 +1,6 @@
 # Hi, I'm Meraj Munshi 👋
 
-### Business Analyst (Aprentice) | B.Tech CSE
+### Aspiring Business Analyst | B.Tech CSE
 
 I am a Computer Science student aspiring to become a Business Analyst, with an interest in solving business problems through structured analysis, data, and technology.
 
