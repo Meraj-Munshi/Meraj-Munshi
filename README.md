@@ -54,7 +54,7 @@ To begin my career as a Business Analyst and help organizations make better, evi
 
 ## 🤝 Connect With Me
 
-- GitHub: [TheWeaponizzer](https://github.com/TheWeaponizzer)
+- GitHub: [Meraj Munshi](https://github.com/Meraj-munshi)
 - LinkedIn: [Meraj Munshi](https://www.linkedin.com/in/meraj-munshi/)
 - Portfolio: [Meraj Munshi](https://theweaponizzer.github.io/)
 
